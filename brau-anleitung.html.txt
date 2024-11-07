@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Trank-Anleitungen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            color: #3a86ff;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .trank {
+            background-color: #f7f7f7;
+            border-left: 8px solid #3a86ff;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .trank h2 {
+            color: #8338ec;
+        }
+        .trank p {
+            color: #555;
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #ff006e;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Minecraft Trank-Anleitungen</h1>
+
+    <div class="trank">
+        <h2>1. Trank der Schnelligkeit</h2>
+        <p><span class="highlight">Effekt:</span> Erhöht die Bewegungsgeschwindigkeit.</p>
+        <p><span class="highlight">Hauptzutaten:</span> Wasserflasche, Netherwarze, Zucker.</p>
+        <p><span class="highlight">Optionale Verbesserung:</span> Redstone (verlängert Dauer) oder Glowstone-Staub (erhöht Stärke).</p>
+    </div>
+
+    <div class="trank">
+        <h2>2. Trank der Sprungkraft</h2>
+        <p><span class="highlight">Effekt:</span> Erhöht die Sprunghöhe.</p>
+        <p><span class="highlight">Hauptzutaten:</span> Wasserflasche, Netherwarze, Kaninchenpfote.</p>
+        <p><span class="highlight">Optionale Verbesserung:</span> Redstone (verlängert Dauer).</p>
+    </div>
+
+    <div class="trank">
+        <h2>3. Trank der Regeneration</h2>
+        <p><span class="highlight">Effekt:</span> Stellt Gesundheit über Zeit wieder her.</p>
+        <p><span class="highlight">Hauptzutaten:</span> Wasserflasche, Netherwarze, Ghastträne.</p>
+        <p><span class="highlight">Optionale Verbesserung:</span> Redstone (verlängert Dauer) oder Glowstone-Staub (erhöht Stärke).</p>
+    </div>
+
+    <!-- Hier kannst du weitere Tränke hinzufügen, indem du den gleichen Codeblock kopierst und anpasst. -->
+
+</div>
+
+</body>
+</html>
